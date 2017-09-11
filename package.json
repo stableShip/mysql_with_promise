@@ -22,7 +22,7 @@
   },
   "homepage": "https://github.com/stableShip/mysql_with_promise",
   "dependencies": {
-    "bluebird": "^2.9.34",
+    "bluebird": "^3.5.0",
     "mysql": "^2.8.0",
     "underscore": "^1.8.3"
   }
